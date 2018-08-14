@@ -20,8 +20,9 @@
  */
 /*
  * This library is for producing a software PWM output for digital pins.
- * Uses the Timer0 in CTC mode with a 64 prescaler to create a 980hz (1ms~) PWM signal.
+ * Uses the Timer1 in CTC mode with a 64 prescaler to create a 980hz (1ms~) PWM signal.
  * I built this library as part of a birthday present for my niece, to create a flashing 
+ * LED display.
  */
 
 
